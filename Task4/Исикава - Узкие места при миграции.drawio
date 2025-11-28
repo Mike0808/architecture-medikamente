@@ -1,0 +1,145 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Исикава - Узкие места при миграции" id="0">
+    <mxGraphModel dx="1793" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="inf_lbl" value="Инфраструктура" style="text;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="950" y="970" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sw_lbl" value="Программное обеспечение" style="text;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="630" y="960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="int_lbl" value="Персонал" style="text;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="310" y="550" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hr_lbl" value="&lt;span style=&quot;font-size: 12px; font-weight: 700; text-align: center;&quot;&gt;Интеграция и данные&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="930" y="540" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="proc_lbl" value="Процессы" style="text;whiteSpace=wrap;html=1;rotation=-1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="550" y="550" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-1" value="Снижение производительности и устойчивости системы" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="670" width="170" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.876;exitY=0.404;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.876;entryY=0.404;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5OkwaAEiQ0PwcMYxdPMu-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="965.7599999999993" y="569.04" as="sourcePoint" />
+            <mxPoint x="1055.7599999999993" y="779.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="775" width="1140" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.873;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1053" y="775" as="sourcePoint" />
+            <mxPoint x="940" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.873;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="736" y="775" as="sourcePoint" />
+            <mxPoint x="623" y="965" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.873;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="736" y="770" as="sourcePoint" />
+            <mxPoint x="623" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.873;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="423" y="785" as="sourcePoint" />
+            <mxPoint x="310" y="975" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.873;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="423" y="775" as="sourcePoint" />
+            <mxPoint x="310" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-14" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="90" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-17" value="Несогласованность схем БД нет миграций, несовместимые типы" style="text;whiteSpace=wrap;html=1;rotation=330;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="630" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-18" value="Потеря истории при переносе из 1С/Excel" style="text;whiteSpace=wrap;html=1;rotation=330;" vertex="1" parent="1">
+          <mxGeometry x="980" y="600" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-19" value="Отсутствие Data Contracts/Schema Registry" style="text;whiteSpace=wrap;html=1;rotation=330;" vertex="1" parent="1">
+          <mxGeometry x="970" y="575" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-20" value="Неверная токенизация/шифрование PII при миграции" style="text;whiteSpace=wrap;html=1;rotation=330;" vertex="1" parent="1">
+          <mxGeometry x="940" y="530" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-21" value="Нет CI/CD для миграций/проверки схем нет rollback‑плана" style="text;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="660" y="570" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-22" value="Отсутствует мониторинг SLA/алерты" style="text;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="680" y="620" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-23" value="Нет регламентов по ключам (Vault/KMS)" style="text;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="630" y="540" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-24" value="Не формализованы data‑contracts у лаборатории/партнёров" style="text;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="610" y="490" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.905;exitY=0.875;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1053" y="784" as="sourcePoint" />
+            <mxPoint x="940" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-29" value="Недостаток компетенций Kubernetes/DevSecOps" style="text;whiteSpace=wrap;html=1;rotation=330;" vertex="1" parent="1">
+          <mxGeometry x="375" y="635" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-30" value="Нет среды Dev/Stage для обучения/регресса" style="text;whiteSpace=wrap;html=1;rotation=330;" vertex="1" parent="1">
+          <mxGeometry x="350" y="600" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-31" value="Ручные деплои/откаты -&amp;gt; ошибки" style="text;whiteSpace=wrap;html=1;rotation=330;" vertex="1" parent="1">
+          <mxGeometry x="330" y="570" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-32" value="Сопротивление изменениям (1С‑пользователи)" style="text;whiteSpace=wrap;html=1;rotation=330;" vertex="1" parent="1">
+          <mxGeometry x="310" y="540" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-33" value="&lt;span style=&quot;text-align: center;&quot;&gt;Ошибки операторов&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rotation=330;" vertex="1" parent="1">
+          <mxGeometry x="390" y="665" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-34" value="Не сформирован процесс онлайн оплаты" style="text;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="710" y="660" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-35" value="Разнобой SDK/драйверов (KC/PG/S3/Kafka)" style="text;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="700" y="870" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-36" value="Нет трассировки/корреляции (trace id)" style="text;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="680" y="900" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-37" value="Саги/идемпотентность не реализованы" style="text;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="660" y="940" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-38" value="Ошибки сериализации (JSON/Avro)&amp;nbsp;" style="text;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="630" y="980" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-39" value="Заниженные IOPS/ ограничения NVMe/ для S3 узкие места сети (e2e TLS, mTLS)" style="text;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="890" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-40" value="Нет HA/DR (кластер 1С, MinIO, PG)" style="text;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="990" y="930" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-41" value="Неверная аллокация CPU/RAM для Pod&#39;ов" style="text;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="970" y="960" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-42" value="Нет балансировки/ingress‑лимитов и retry/circuit breaker" style="text;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1000" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OkwaAEiQ0PwcMYxdPMu-43" value="Проблемы Data Catalog ошибки lineage, дублирование мета данных" style="text;whiteSpace=wrap;html=1;rotation=330;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="660" width="300" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
